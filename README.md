@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VaishnaviAzad/VaishnaviAzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Vaishnavi%20Azad&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
-Here are some ideas to get you started:
+### `code • build • learn • repeat`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Developer · AI/ML Explorer**
+
+<br>
+
+<a href="https://github.com/VaishnaviAzad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaishnavi-azad-02234a312">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### `$ whoami`
+
+```text
+Hi, I'm Vaishnavi 👋
+
+I like turning ideas into working software.
+
+Currently exploring the intersection of
+web development, backend systems and AI.
+
+Always curious.
+Always building.
+Always learning.
